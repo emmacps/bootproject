@@ -9,20 +9,32 @@
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-/* .intro{
-    padding: 80px;
-    margin: 40px;
+.intro {
+    padding: 120px;
+    margin: 60px;
 }
- */
 
+
+.about{
+    padding: 120px;
+    margin: 60px;
+}
+
+.services{
+    background-color: aquamarine;
+    padding: 120px 0;
+    margin: 60px 0 0 0;
+    width: 100%;
+}
+
+.footer{
+    background-image: url(../images/footer_bg.png);
+    padding: 120px 0 20px 0;
+    margin: 0;
+    width: 100%;
+    color: white;
+}
+
+.top{
+    border-top: 2px solid #2d3544;
+}
